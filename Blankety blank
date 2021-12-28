@@ -1,0 +1,5 @@
+=ISBLANK(G2)
+
+
+=COUNTBLANK(G2:G25)
+
