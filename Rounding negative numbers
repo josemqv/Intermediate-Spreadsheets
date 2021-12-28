@@ -1,0 +1,4 @@
+=FLOOR.MATH(H2, 0.01, 1)
+
+
+=CEILING.MATH(H2, 0.1, 1)
