@@ -1,0 +1,3 @@
+=NOT(A2)
+
+=FILTER(A2:H25, H2:H25)
