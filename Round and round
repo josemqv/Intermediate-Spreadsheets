@@ -1,0 +1,3 @@
+=ROUND(F2)
+=ROUND(G2,1)
+=round(E2,-2)
