@@ -1,0 +1,1 @@
+=SWITCH(H2:H25, "none", 1, "young", 2, "old", 3)
