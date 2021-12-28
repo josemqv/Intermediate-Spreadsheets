@@ -1,0 +1,1 @@
+=If(AND(C2, D2), "married with kids", "other")
