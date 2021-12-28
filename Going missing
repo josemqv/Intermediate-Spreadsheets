@@ -1,0 +1,5 @@
+=AND(D2, G2)
+
+=IF(ISBLANK(G2), NA(), G2)
+
+=AND(D2, I2)
