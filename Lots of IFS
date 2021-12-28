@@ -1,0 +1,1 @@
+=IFS(E2, "young", NOT(D2), "none", AND(D2, NOT(E2)), "old")
