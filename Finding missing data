@@ -1,0 +1,5 @@
+=FILTER(A2:H20, H2:H20)
+
+=ISBLANK(C2)
+
+FILTER() to filter the dataset to show only the rows with missing athletes.
