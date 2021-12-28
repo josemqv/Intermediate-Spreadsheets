@@ -1,0 +1,2 @@
+=CONVERT(A2, "sec", "min")
+=CONVERT(B2, "m/s", "mph")
