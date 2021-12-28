@@ -1,0 +1,3 @@
+=NORMINV(RAND(), C2, 1000)
+
+=BETAINV(RAND(), 2, 2, D2, E2)
