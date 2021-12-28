@@ -1,0 +1,5 @@
+=OR(NOT(A2), B2)
+
+=AND(H2, G2)
+
+=FILTER(A2:I25, I2:I25)
