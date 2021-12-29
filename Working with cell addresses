@@ -1,0 +1,8 @@
+=ROW(B2)
+
+=COLUMN(B2)
+
+
+=ADDRESS(H2, I2)
+
+=ADDRESS(H2, I2, 4)
