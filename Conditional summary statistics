@@ -1,0 +1,3 @@
+=UNIQUE(A2:A45)
+=COUNTIF($A$2:$A$45, H2)
+=COUNTIFS($A$2:$A$45, H2, $D$2:$D$45, ">20")
