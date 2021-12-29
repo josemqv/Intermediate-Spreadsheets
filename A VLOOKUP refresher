@@ -1,0 +1,3 @@
+=VLOOKUP("Sikkim", $B$11:$G$19, 5, FALSE)
+
+=VLOOKUP("Mizoram Hills", $B$11:$G$19, 4, FALSE)
